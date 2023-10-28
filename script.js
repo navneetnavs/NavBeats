@@ -50,6 +50,18 @@ const music_list = [
         name : 'Until I Found You',
         artist : 'Stephen Sanchez',
         music : 'music/until.mp3'
+    },
+    {
+        img : 'images/agar.jpg',
+        name : 'Agar tum Saath Ho',
+        artist : 'Arijit Singh',
+        music : 'music/agar.mp3'
+    },
+    {
+        img : 'images/tuhaikahan.jpg',
+        name : 'Tu Hai Kahan',
+        artist : 'AUR',
+        music : 'music/tuhaikahan.mp3'
     }
 ];
 
