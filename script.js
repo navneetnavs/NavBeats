@@ -62,7 +62,13 @@ const music_list = [
         name : 'Tu Hai Kahan',
         artist : 'AUR',
         music : 'music/tuhaikahan.mp3'
-    }
+    },
+    {
+        img : 'images/tuchaiye.jpg',
+        name : 'Tu Chaiye',
+        artist : 'Atif Aslam',
+        music : 'music/tuchaiye.mp3'
+    },
 ];
 
 loadTrack(track_index);
